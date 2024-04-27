@@ -33,9 +33,9 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.  For the Hello World program, you will complete this at the end of Week 1.
 
-1. Put your GitHub link for your demonstration software here: https://github.com/otaviovaleriano/hello-world 
+1. Put your GitHub link for your demonstration software here: https://github.com/otaviovaleriano/hello
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/FKlfnev-qnw
 
 3. Complete the following checklist by either indicating "Yes" or "No".  If you indicate "No" then provide an explanation of why.
 
